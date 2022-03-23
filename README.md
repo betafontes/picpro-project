@@ -13,6 +13,9 @@ The purpose of the event was to start taking the first steps in the Front-end, s
 - CSS
 - JavaScript
 
+#### 🔹 Project Layout:
+
+
 ![image](https://user-images.githubusercontent.com/70981960/159786368-628766ee-f1cd-40f4-801e-680976c7563c.png)
 ![image](https://user-images.githubusercontent.com/70981960/159786624-404ba7a5-0c13-4a9a-8569-2de66466fe11.png)
 
