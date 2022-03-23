@@ -14,6 +14,7 @@ The purpose of the event was to start taking the first steps in the Front-end, s
 - JavaScript
 
 #### 🔹 Project Layout:
+https://betafontes.github.io/picpro-project/
 
 
 ![image](https://user-images.githubusercontent.com/70981960/159786368-628766ee-f1cd-40f4-801e-680976c7563c.png)
